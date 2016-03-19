@@ -1,0 +1,36 @@
+/* Formas */
+
+.boton {
+	background-color: #FACC2E;
+	padding: 20px;
+	border-bottom: 6px solid #FE9A2E;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	width: 100%;
+	margin-right: 25px;
+	transition: all 200ms linear;
+}
+
+.boton:hover {
+	border-bottom: 0 none;
+	background-color: #FE9A2E;
+	border-top: 6px solid #FACC2E;
+
+}
+
+.boton:last-of-type{
+	margin-right: 0;
+}
+
+.boton_a {
+	color: #282828;
+	font-weight: 500;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: none;	
+}
+
+.space{
+	margin-top: 40px;
+
+}
